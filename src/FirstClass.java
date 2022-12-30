@@ -4,8 +4,8 @@ public class FirstClass {
 
         int newValue =  67;
 
-        boolean isAlien = false;
-        if (isAlien == false){
+        boolean isAlien = true;
+        if (isAlien){
             //put one or more statement if the statement is true
             System.out.println("is not an alien");
         }
